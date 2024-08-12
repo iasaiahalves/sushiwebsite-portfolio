@@ -36,23 +36,23 @@ const cards = [
     {
         imgSrc: sushi12,
         alt: "sushi-12",
-        title: "Cheese Sushi Roll",
-        rating: "4.9",
-        price: "₱210.00"
+        title: "Chezu Sushi",
+        rating: "4.8",
+        price: "$21.00"
     },
     {
         imgSrc: sushi11,
         alt: "sushi-11",
-        title: "Nigiri Sushi",
-        rating: "5.0",
-        price: "₱250.00",
+        title: "Originale Sushi",
+        rating: "4.8",
+        price: "$21.00",
         active: true
     },
     {
         imgSrc: sushi10,
         alt: "sushi-10",
-        title: "Ramen",
-        rating: "4.7",
-        price: "₱350.00"
+        title: "Ramen Legendo",
+        rating: "4.8",
+        price: "$21.00"
     }
 ];
